@@ -55,7 +55,7 @@ wget https://pjreddie.com/media/files/yolov3.weights
 
 7) yolov3.cfg - This is the configuration file for YOLOv3 Object detection model.
 
-8) yolov3.weights - (NOT INCLUDED IN THIS REPOSITORY) This file has to be downloaded in order to run YOLO object detection.The procedure                     for the download is explained YOLO3 - Real-Time Object Detection section.
+8) yolov3.weights - (NOT INCLUDED IN THIS REPOSITORY) This file has to be downloaded in order to run YOLO object detection. The                             procedure for the download is explained YOLO3 - Real-Time Object Detection section.
 
 9) outputClip1.mp4 - This is the processed video and the output of the Application. Please view this video to get a better idea of how                        Social-Distancing-Tracker works
 
