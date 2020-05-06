@@ -1,8 +1,7 @@
 # Social-Distancing-Tracker
 
 Social distancing is a method of infection prevention implemented to avoid/decrease contact between people so as to stop or slow down 
-the rate and extent of disease transmission in a community. Coronavirus is one such disease that can be transmitted from person to person 
-if proper Social Distancing is not maintained. According to the government, a minimum of 3 feet distance must be maintained between people.
+the rate and extent of disease transmission in a community. Coronavirus is one such disease that can be transmitted from person to person if proper Social Distancing is not maintained. 
 
 But, making sure that social distancing is maintained in public places becomes a challenging task. This project helps in tracking if people are maintaining social distance. This AI system tracks and send an alert if someone is not following social distancing.
 
